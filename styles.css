@@ -1,0 +1,13 @@
+@import url("./block/header.css");
+@import url("./block/hero.css");
+@import url("./block/layout.css");
+@import url("./block/myskills.css");
+@import url("./normalize/normalize.css");
+@import url("./normalize/variables.css");
+@import url("./block/myportfolio.css");
+
+
+@font-face {
+    font-family: "Inter";
+    src: url(./stili/Inter-VariableFont_opsz\,wght.ttf);
+}
