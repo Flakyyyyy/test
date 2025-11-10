@@ -6,9 +6,18 @@
 @import url("./normalize/variables.css");
 @import url("./block/myportfolio.css");
 @import url("./block/experience.css");
-
+@import url("./block/contact.css");
+@import url("./block/footer.css");
 
 @font-face {
     font-family: "Inter";
     src: url(./fonts/Inter-VariableFont_opsz\,wght.ttf);
 }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #fff;
+}
+
