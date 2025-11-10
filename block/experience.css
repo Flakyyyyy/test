@@ -1,0 +1,70 @@
+.experience {
+  background: #FFDA74;
+  padding: 160px 0;
+}
+
+.experience__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.experience__header {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.experience__title {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 46px;
+  color: #000;
+  margin-bottom: 12px;
+}
+
+.experience__subtitle {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #555;
+  line-height: 160%;
+}
+
+/* Сетка карточек */
+.experience__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px 20px;
+}
+
+/* Карточка */
+.experience__card {
+  background: #FFDA74;
+  border: 2px solid #1B1B1B40;
+  
+  border-radius: 20px;
+  padding: 40px;
+
+}
+
+
+/* Заголовок и текст карточки */
+.experience__card-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  color: #000;
+  margin-bottom: 16px;
+}
+
+.experience__card-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #444;
+}
+.experience__card-year {
+  font-size: 100px;
+  font-weight: 700;
+
+}

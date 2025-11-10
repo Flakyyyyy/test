@@ -5,6 +5,7 @@
 @import url("./normalize/normalize.css");
 @import url("./normalize/variables.css");
 @import url("./block/myportfolio.css");
+@import url("./block/experience.css");
 
 
 @font-face {
